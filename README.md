@@ -9,3 +9,6 @@ Finished product:
 This is how the PCB looks like when home made:
 
 ![PCB](https://github.com/Kris-Sekula/DIY_2114_SRAM_Tester/blob/main/ReadyPCBM.JPEG)
+
+I published a [YouTube](https://youtu.be/o5B_jiQg0Gk) video that details the work.
+
