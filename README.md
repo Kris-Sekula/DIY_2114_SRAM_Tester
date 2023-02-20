@@ -1,6 +1,6 @@
 This repository contans a modified version of PCB for the 2114 SRAM chip, the original desing was published [here](https://github.com/gpimblott/SRAM2114_Tester) 
 
-My version make it much easier to manufacture the PCB at home (DYI method with toner transfer)
+My version makes it much easier to manufacture the PCB at home (DYI method with toner transfer)
 
 Finished product:
 
